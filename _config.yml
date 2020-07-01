@@ -1,2 +1,2 @@
 baseurl: /learn-jekyll/
-permalink: /learn-jekyll/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title

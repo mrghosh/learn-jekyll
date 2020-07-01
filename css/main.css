@@ -41,3 +41,15 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+
+pre{
+    //max-width: 400px;
+    margin: 60px auto;
+    width: 70%;
+    max-height: 100px;
+    overflow: auto;
+    word-break: normal !important;
+    word-wrap: normal !important;
+    white-space: pre !important;
+}

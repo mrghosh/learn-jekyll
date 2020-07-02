@@ -8,9 +8,9 @@
 			<nav>
 	    		<ul>
 	        		<li><a href="/learn-jekyll/">Home</a></li>
-		        	<li><a href="/learn-jekyll/about">About</a></li>
-				<li><a href="/learn-jekyll/pgp/">PGP key</a></li>
-	        		<li><a href="/learn-jekyll/blog">Blog</a></li>
+		        	<li><a href="{{ "/about/" | relative_url }}">About</a></li>
+				<li><a href="{{ "/pgp/" | | prepend:site.baseurl }}">PGP key</a></li>
+	        		<li><a href="/learn-jekyll/blog/">Blog</a></li>
 	    		</ul>
 			</nav>
 			<div class="container">
@@ -21,7 +21,7 @@
 			<footer>
 	    		<ul>
 	        		<li><a href="https://sourav.eu.org">Website</a></li>
-	        		<li><a href="https://github.com/souravndp">github.com/souravndp</a></li>
+	        		<li><a href="https://github.com/mrghosh">github.com/mrghosh</a></li>
 				</ul>
 			</footer>
 		</body>

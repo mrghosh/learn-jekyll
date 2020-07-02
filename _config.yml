@@ -1,2 +1,1 @@
-#permalink: /:year/:month/:day/:title
-baseurl: sourav.eu.org/learn-jekyll
+baseurl: /learn-jekyll

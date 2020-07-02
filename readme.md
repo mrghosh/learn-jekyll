@@ -6,3 +6,5 @@ specify baseurl: /learn-jekyll in _config.yml and then modify blog post urls lik
 We may also use the HTML base tag to modify the blog post URLs.
 
 permalink: /learn-jekyll/:year/:month/:day/:title #This will just keep this post under /_sites/learn-jekyll/2020/06/30/.... This won't solve the username.github.io/learn-jekyll issue. The post will be available at username.github.io/learn-jekyll/learn-jekyll/...
+
+[Read this too](https://github.com/jekyll/jekyll/issues/332#issuecomment-18952908)

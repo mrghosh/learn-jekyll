@@ -1,2 +1,2 @@
-permalink: /:year/:month/:day/:title
-baseurl: mrghosh.github.io/learn-jekyll
+#permalink: /:year/:month/:day/:title
+baseurl: sourav.eu.org/learn-jekyll

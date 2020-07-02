@@ -1,2 +1,2 @@
 permalink: /:year/:month/:day/:title
-baseurl: /learn-jekyll/
+baseurl: learn-jekyll
